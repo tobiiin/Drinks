@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="challenges">
+        <item>Remember tonight. Take a group photo</item>
+        <item>Tell a joke</item>
+        <item>High-five a friend</item>
+        <item>Friendship circle</item>
+        <item>Rock, Paper Scissors</item>
+    </string-array>
+</resources>
